@@ -8,3 +8,4 @@ Bash programming 100days challenge.
 |3  | Command Line arguments                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-3">Link</a>  |
 |4  | Conditional Statement                       | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-4">Link</a>  |
 |5  | File Test Operation                         | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-5">Link</a>  |
+|6  | Append Output To File                       | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-6">Link</a>  |
