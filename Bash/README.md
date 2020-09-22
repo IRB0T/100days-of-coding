@@ -14,3 +14,4 @@ Bash programming 100days challenge.
 |9  | Arithmetic Operations                       | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-9">Link</a>  |
 |10  | Case Statement                             | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-10">Link</a>  |
 |11  | More on Case Statement                     | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-11">Link</a>  |
+|12  | Arrays                                     | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-12">Link</a>  |
