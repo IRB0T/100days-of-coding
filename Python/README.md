@@ -12,5 +12,6 @@ Python programming 100days challenge.
 |7  | Logical AND Operator                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-7">Link</a>  |
 |8  | Logical OR Operator                       | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-8">Link</a>  |
 |9  | Arithmetic Operations                     | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-9">Link</a>  |
-|10 | Read about Operators in python             | <a href="">Link</a>  |
+|10 | Read about Operators in python            | <a href="">Link</a>  |
 |11 | Read about Looping statements in python   | <a href="">Link</a>  |
+|12 | While Loop in python                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-12">Link</a>  |
