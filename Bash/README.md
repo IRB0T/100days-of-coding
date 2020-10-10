@@ -16,3 +16,4 @@ Bash programming 100days challenge.
 |11  | More on Case Statement                     | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-11">Link</a>  |
 |12  | Arrays                                     | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-12">Link</a>  |
 |13  | While Loop                                 | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-13">Link</a>  |
+|14  | For Loop & Until Loop                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Bash/Day-14">Link</a>  |
