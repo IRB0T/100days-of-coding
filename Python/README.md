@@ -15,3 +15,4 @@ Python programming 100days challenge.
 |10 | Read about Operators in python            | <a href="">Link</a>  |
 |11 | Read about Looping statements in python   | <a href="">Link</a>  |
 |12 | While Loop in python                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-12">Link</a>  |
+|12 | For Loop in python                      | <a href="https://github.com/raj1997/100days-of-coding/tree/master/Python/Day-13">Link</a>  |
